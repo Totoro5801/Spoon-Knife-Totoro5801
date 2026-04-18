@@ -9,4 +9,4 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 ## Day 2
-This change was made in feature/day2
+这次数据是在 feature/day2中完成的
